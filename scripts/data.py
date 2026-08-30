@@ -7,7 +7,7 @@ PHONE = "(844) 715-0800"
 PHONE_RAW = "8447150800"
 DOMAIN = "https://www.24hourlocksmithnearme.us"
 BRAND = "24 Hour Locksmith"
-GSC_TOKEN = "859SfShMNvPHzY2ONT2sMWMEjmrFKilHLksqtAHdO5k"
+GSC_TOKEN = "jWBCkgEYfaF49k5YXKV3HqWUsJ8GPSbXmM3JbCrtRdU"
 
 # states: (slug, name, abbr, region-note, cities[(slug, name, fact)])
 STATES = [
